@@ -1,5 +1,5 @@
 
-Project Name: Small office home office network design &amp; implementation project 
+Project Name: Small office home office network design &amp; implementation project using CISCO PACKET TRACER 
 Features:
 1)Assigning router, switch, wireless accesspoints,end devices
 2)configuring DHCP Server
